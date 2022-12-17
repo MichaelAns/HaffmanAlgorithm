@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\HaffmanAlgorithm\HaffmanAlgorithm.cpp">
+    <ClInclude Include="..\..\MichaelAns\PR_1\LB_4\HaffmanCode.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\MichaelAns\PR_1\LB_4\Node.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\MichaelAns\PR_1\LB_4\Occurence.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\MichaelAns\PR_1\LB_4\HaffmanCode.inl">
+      <Filter>Файлы заголовков</Filter>
+    </None>
+    <None Include="..\..\MichaelAns\PR_1\LB_4\Occurence.inl">
+      <Filter>Файлы заголовков</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\MichaelAns\PR_1\LB_4\LB_4.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\HaffmanAlgorithm\HaffmanCode.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\HaffmanAlgorithm\Node.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\HaffmanAlgorithm\Occurence.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\Desktop\HaffmanAlgorithm\HaffmanCode.inl">
-      <Filter>Файлы заголовков</Filter>
-    </None>
-    <None Include="..\..\..\..\Desktop\HaffmanAlgorithm\Occurence.inl">
-      <Filter>Файлы заголовков</Filter>
-    </None>
   </ItemGroup>
 </Project>

@@ -19,16 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\HaffmanAlgorithm\HaffmanAlgorithm.cpp" />
+    <ClInclude Include="..\..\MichaelAns\PR_1\LB_4\HaffmanCode.h" />
+    <ClInclude Include="..\..\MichaelAns\PR_1\LB_4\Node.h" />
+    <ClInclude Include="..\..\MichaelAns\PR_1\LB_4\Occurence.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\HaffmanAlgorithm\HaffmanCode.h" />
-    <ClInclude Include="..\..\..\..\Desktop\HaffmanAlgorithm\Node.h" />
-    <ClInclude Include="..\..\..\..\Desktop\HaffmanAlgorithm\Occurence.h" />
+    <None Include="..\..\MichaelAns\PR_1\LB_4\HaffmanCode.inl" />
+    <None Include="..\..\MichaelAns\PR_1\LB_4\Occurence.inl" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\Desktop\HaffmanAlgorithm\HaffmanCode.inl" />
-    <None Include="..\..\..\..\Desktop\HaffmanAlgorithm\Occurence.inl" />
+    <ClCompile Include="..\..\MichaelAns\PR_1\LB_4\LB_4.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
